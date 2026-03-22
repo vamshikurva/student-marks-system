@@ -22,3 +22,11 @@ python gui.py
 
 ### Web App
 python app.py
+
+
+## Screenshots
+### Input Form
+![Form](form.png)
+
+### Output Result
+![Result](result.png)
